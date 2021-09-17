@@ -38,6 +38,14 @@
             <version>1.33</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.lmax/disruptor -->
+        <dependency>
+            <groupId>com.lmax</groupId>
+            <artifactId>disruptor</artifactId>
+            <version>3.4.4</version>
+        </dependency>
+
+
     </dependencies>
 
 </project>
